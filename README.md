@@ -1,7 +1,7 @@
-{{cookiecutter.project_name}}
+Demo Project
 ==============================
 
-{{cookiecutter.description}}
+This demo project will demonstrate the validity of 
 
 Project Organization
 ------------
